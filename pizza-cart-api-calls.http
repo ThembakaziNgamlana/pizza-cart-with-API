@@ -1,5 +1,14 @@
+# Pizza API
+
+## to use these Https install the Rest client plugin in Vscode
 
 Get https://pizza-api.projectcodex.net/api/pizzas
 
 
-Get https://pizza-api.projectcodex.net/api/pizza-cart/create?username=
+### create a pizza cart
+
+Get https://pizza-api.projectcodex.net/api/pizza-cart/create?username=ThembakaziNgamlana
+
+#### Get a cart
+
+Get https://pizza-api.projectcodex.net/api/pizzas/api/pizza-cart/WsypSkrOhq/get
